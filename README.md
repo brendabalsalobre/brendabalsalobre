@@ -2,7 +2,7 @@
 
 👩‍💻 I am a Data Analyst/ Data Scientist sharing about my journey and learnings in tech<br><br>
 👩‍🎓 Studied Data Science and Psychology at Nevada State University and the University of California, Irvine<br><br>
-🤓 I enjoy using tools like Python, SQL, and Excel to solve real-world business problems
+⚡ I enjoy using tools like Python, SQL, and Excel to solve real-world business problems
 
 ---
 ### 📊 GitHub Stats:
