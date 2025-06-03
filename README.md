@@ -5,7 +5,7 @@
 
 👩‍🎓 Studied Data Science and Psychology at Nevada State University and the University of California, Irvine
 
-🤓 I enjoy using tools like Python, SQL, and Excel to solve real-business problems
+🤓 I enjoy using tools like Python, SQL, and Excel to solve real-world business problems
 
 
 <!--![Brenda's GitHub stats](https://github-readme-stats.vercel.app/api?username=brendabalsalobre&show_icons=true&theme=transparent)
