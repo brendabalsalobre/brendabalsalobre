@@ -1,3 +1,4 @@
+
 ## Hi everyone! My name is Brenda Balsalobre
 
 👩‍💻 I am a Data Analyst/ Data Scientist sharing about my journey and learnings in tech<br><br>
@@ -5,6 +6,7 @@
 ⚡ I enjoy using tools like Python, SQL, and Excel to solve real-world business problems
 
 --- 
+
 ## 👇 Featured Projects:
  
 ### 🚘 [Motor_Vehicle_Thefts_Analysis](https://github.com/brendabalsalobre/Motor_Vehicle_Thefts_Analysis)
