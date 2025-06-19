@@ -1,4 +1,4 @@
-## Hi everyone! My name is Brenda Balsalobre
+### Hi everyone! My name is Brenda Balsalobre
 
 👩‍💻 I am a Data Analyst/ Data Scientist sharing about my journey and learnings in tech<br><br>
 👩‍🎓 Studied Data Science and Psychology at Nevada State University and the University of California, Irvine<br><br>
