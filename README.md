@@ -11,10 +11,10 @@
 ### 🚘 [Motor Vehicle Thefts Analysis](https://github.com/brendabalsalobre/Motor_Vehicle_Thefts_Analysis)
 This project analyzes vehicle theft trends in New Zealand using SQL and Excel, revealing patterns in theft timing, vehicle types, colors, and regions to inform targeted crime prevention strategies.
  
-### 🏦 [Bank_Customer_Segmentation](https://github.com/brendabalsalobre/Bank_Customer_Segmentation)
+### 🏦 [Bank Customer Segmentation](https://github.com/brendabalsalobre/Bank_Customer_Segmentation)
 This project uses machine learning to segment bank customers, providing data-driven insights for targeted marketing and improved customer retention strategies.
  
-### 💬 [Tweet_Emotion_Classification](https://github.com/brendabalsalobre/Tweet_Emotion_Classification)
+### 💬 [Tweet Emotion Classification](https://github.com/brendabalsalobre/Tweet_Emotion_Classification)
 This project demonstrates skills in natural language processing and machine learning, improving emotion classification accuracy from 84% to 90% through feature engineering, model optimization, and advanced text preprocessing techniques.
 
 ---
