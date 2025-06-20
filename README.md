@@ -8,7 +8,7 @@
 
 ### 👇 Featured Projects:
  
-### 🚘 [Motor_Vehicle_Thefts_Analysis](https://github.com/brendabalsalobre/Motor_Vehicle_Thefts_Analysis)
+### 🚘 [Motor Vehicle Thefts Analysis](https://github.com/brendabalsalobre/Motor_Vehicle_Thefts_Analysis)
 This project analyzes vehicle theft trends in New Zealand using SQL and Excel, revealing patterns in theft timing, vehicle types, colors, and regions to inform targeted crime prevention strategies.
  
 ### 🏦 [Bank_Customer_Segmentation](https://github.com/brendabalsalobre/Bank_Customer_Segmentation)
