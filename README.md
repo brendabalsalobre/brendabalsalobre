@@ -1,8 +1,10 @@
 ### Hi everyone! My name is Brenda Balsalobre
 
-👩‍💻 I am a Data Analyst/ Data Scientist sharing about my journey and learnings in tech<br><br>
+👩‍💻 I am a Data Analyst/ Data Scientist building models, drawing connections, and sharing what I learn along the way<br><br>
 👩‍🎓 Studied Data Science and Psychology at Nevada State University and the University of California, Irvine<br><br>
-⚡ I frequently work with tools like Python, SQL, and Excel to solve real-world business problems
+🧠 I approach data the way I approach people: with empathy, insight, and a desire to understand what’s beneath the surface.<br><br>
+⚡ I enjoy working with tools like Python, SQL, and Excel to solve real-world business problems<br><br>
+🎨 Outside of data, I recharge through digital painting and sketching (blending structure and imagination through digital art on my iPad)
 
 --- 
 
